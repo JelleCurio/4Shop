@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 .jumbotron img{
 	width: 70%;
@@ -25,6 +26,7 @@ form li{
 }
 
 header{
+	font-family: 'Libre Baskerville', serif;
 	display: flex;
     justify-content: space-between;
     align-items: center;
